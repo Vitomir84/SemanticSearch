@@ -10,7 +10,7 @@ pinned: false
 short_description: Semantic Search engine with Faiss
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-
+Check out the API of Search engine at https://huggingface.co/spaces/Vitomir/search_engine
 
 ### For local deployment run 
 ```
